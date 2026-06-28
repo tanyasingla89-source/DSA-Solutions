@@ -1,0 +1,31 @@
+class Solution {
+public:
+    string removeKdigits(string num, int k) {
+        stack<char> st;        // ✅ char not int
+
+        for(int i = 0; i < num.size(); i++) {
+            while(!st.empty() && st.top() > num[i] && k > 0) {  // ✅ > not >=
+                st.pop();
+                k--;
+            }
+            st.push(num[i]);
+        }
+
+        while(k > 0) {         // ✅ remove remaining from end
+            st.pop();
+            k--;
+        }
+
+        string ans;
+        while(!st.empty()) {
+            ans += st.top();
+            st.pop();
+        }
+        reverse(ans.begin(), ans.end());
+
+        int start = 0;
+        while(start < ans.size() && ans[start] == '0') start++;  // ✅ bounds check + '0'
+
+        return ans.substr(start).empty() ? "0" : ans.substr(start);
+    }
+};
