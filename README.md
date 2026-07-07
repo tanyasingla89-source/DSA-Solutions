@@ -1,12 +1,36 @@
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Divide and Conquer
-|  |
-| ------- |
-| [0191-number-of-1-bits](https://github.com/tanyasingla89-source/DSA-Solutions/tree/master/0191-number-of-1-bits) |
-## Bit Manipulation
-|  |
-| ------- |
-| [0191-number-of-1-bits](https://github.com/tanyasingla89-source/DSA-Solutions/tree/master/0191-number-of-1-bits) |
-<!---LeetCode Topics End-->
+# DSA Solutions 🚀
+
+## About
+A structured collection of Data Structures
+and Algorithms solutions in C++, following
+Striver's A2Z DSA Sheet for placement preparation.
+
+## 👩‍💻 Author
+**Tanya**
+Computer Engineering @ Thapar Institute of
+Engineering and Technology (TIET)
+Graduating 2027 | Targeting SDE Roles
+
+## 📚 Topics Covered
+| Topic | Status |
+|-------|--------|
+| Arrays & Strings | ✅ Done |
+| Binary Search | ✅ Done |
+| Linked Lists | ✅ Done |
+| Stacks & Queues | ✅ Done |
+| Recursion | ✅ Done |
+| Backtracking | ✅ Done |
+| Binary Trees | ✅ Done |
+| Heaps | ✅ Done |
+| BST | 🔄 Upcoming |
+| Graphs | 🔄 Upcoming |
+| DP | 🔄 Upcoming |
+
+## 🛠️ Language
+C++ (DSA) | Python (ML/AI Projects)
+
+## 📊 Stats
+✅ 8 topics completed
+🔄 3 topics remaining
+📈 Following Striver's A2Z Sheet
+
