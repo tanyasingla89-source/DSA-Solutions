@@ -16,10 +16,10 @@ int count=0;
 void print(TreeNode* root,int k)
 {
     if(root==NULL || count>k) return;
-    print(root->left,k);
+    print(root->right,k);
     count++;
     if(count==k) {p=root->val; return;}
-    print(root->right,k);
+    print(root->left,k);
 
 }
     int kthSmallest(TreeNode* root, int k) {
