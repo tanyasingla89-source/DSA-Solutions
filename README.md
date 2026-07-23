@@ -1,19 +1,17 @@
 # DSA Solutions 🚀
 
 ## About
-A structured collection of Data Structures
-and Algorithms solutions in C++, following
-Striver's A2Z DSA Sheet for placement preparation.
+A structured collection of Data Structures and Algorithms solutions in C++, following Striver's A2Z DSA Sheet for placement preparation.
 
 ## 👩‍💻 Author
-**Tanya**
-Computer Engineering @ Thapar Institute of
-Engineering and Technology (TIET)
+Tanya
+Computer Engineering @ Thapar Institute of Engineering and Technology (TIET)
 Graduating 2027 | Targeting SDE Roles
 
 ## 📚 Topics Covered
+
 | Topic | Status |
-|-------|--------|
+|---|---|
 | Arrays & Strings | ✅ Done |
 | Binary Search | ✅ Done |
 | Linked Lists | ✅ Done |
@@ -22,15 +20,13 @@ Graduating 2027 | Targeting SDE Roles
 | Backtracking | ✅ Done |
 | Binary Trees | ✅ Done |
 | Heaps | ✅ Done |
-| BST | 🔄 Upcoming |
-| Graphs | 🔄 Upcoming |
-| DP | 🔄 Upcoming |
+| BST | ✅ Done |
+| Graphs | ✅ Done |
+| DP | ✅ Done |
 
 ## 🛠️ Language
 C++ (DSA) | Python (ML/AI Projects)
 
 ## 📊 Stats
-✅ 8 topics completed
-🔄 3 topics remaining
+✅ 11 topics completed
 📈 Following Striver's A2Z Sheet
-
